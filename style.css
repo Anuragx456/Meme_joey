@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+div{
+    height: 200px;
+    width: 300px;
+    margin: 0px;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    border: 10px solid black;
+}
+
+#meme1{
+    padding-left: 300px;
+    padding-top: 10px;
+}
+
+#meme2{
+    padding-left: 300px;
+    padding-top: 230px;
+}
+
+#text1{
+    color: white;
+    padding-top: 0px;
+    text-transform: uppercase;
+}
+
+#text2{
+    color: white;
+    padding-top: 50px;
+    text-transform: uppercase;
+}
